@@ -1,1 +1,2 @@
+prepare:v2.12.4
 goharbor/prepare:v2.12.4

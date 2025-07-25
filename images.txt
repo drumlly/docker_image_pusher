@@ -1,1 +1,1 @@
-sonarqube:2025.1-lta
+sonarqube:25.1-community

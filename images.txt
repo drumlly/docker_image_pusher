@@ -1,1 +1,1 @@
-sonarqube:25.1-community
+sonarqube:community

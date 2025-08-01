@@ -1,1 +1,1 @@
-eipwork/kuboard:v3
+alpine:3.12

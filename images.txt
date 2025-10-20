@@ -1,1 +1,1 @@
-alpine:3.12
+mapitman/bind-utils:latest

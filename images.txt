@@ -1,1 +1,1 @@
-mapitman/bind-utils:latest
+busybox:latest

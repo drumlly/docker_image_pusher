@@ -1,1 +1,1 @@
-busybox:latest
+ubuntu:18.04
